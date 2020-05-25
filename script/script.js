@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const sendButton = document.querySelector('#send');
     const modalTitle = document.querySelector('.modal-title');//заголовок "Ответь на вопрос"
 
-    //вопросы с ответами квиза
+    //вопросы с ответами квиза 
     const questions = [
         {
             question: "Какого цвета бургер?",
